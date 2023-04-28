@@ -1,0 +1,41 @@
+body{
+  background-color: #070A52;
+text-align: center;
+color: white;
+width: 400px;
+height: 400px;
+margin: auto;
+}
+.firstheading{
+ font-weight: bold;
+ font-size: 80px;
+ color: #00FFCA;
+}
+h1{
+  position: relative;
+  top: 50px;
+  font-size: 50px;
+}
+h2{
+  font-size: 30px;
+}
+
+footer{
+  padding-top: 45px;
+  padding-bottom: 30px;
+  width: 100%;
+  font-size: 80px;
+}
+hr{
+  width: 100%;
+  
+  margin-top: 70px;
+  border-width: 2px;
+
+}
+.paragraph{
+  font-size: 20px;
+}
+ .lastheading{
+  color: #98D8AA;
+ }
